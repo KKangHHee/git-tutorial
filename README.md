@@ -1,2 +1,1 @@
-feature/1
-\n feature/1/a
+\nfeature/1/c
